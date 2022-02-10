@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,2BAA2B,CACxC,KAAK,CAAE,KAAK,CACf",
+    "sources": [
+        "../../resources/sass/public_styles/layout/layout.scss"
+    ],
+    "names": [],
+    "file": "layout.min.css"
+}
